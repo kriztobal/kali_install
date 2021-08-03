@@ -1,0 +1,81 @@
+INSTALACIÓN DEL SISTEMA OPERATIVO KALI LINUX 2021.2
+
+
+1. Ingresamos a la página oficial de kali: kali.org y damos click en DOWNLOAD
+
+2. Elegimos "Live Boot".
+
+3. Podemos decidir la forma en que deseamos descargar: descargar directamente el iso o por medio de torrent.
+
+4. Abrimos VirtualBox y para crear una nueva máquina virtual.
+
+5. Colocamos el nombre de la máquina virtual.
+	En tipo elegimos Linux y versión es Debian 64 bits.
+	Asignamos la cantidad de memoria RAM (recomendado 2048 MB).
+	Dejamos seleccionado "Crear disco duro virtual ahora".
+	Damos click en "Crear"
+
+6. Asignamos el tamaño del disco duro virtual
+	Las demás opciones quedan por default y damos en "Crear".
+
+7. Una vez creada vamos a configuración.
+
+8. Damos la máxima cantidad permitida en "Memoria de video".
+
+9. En "Almacenamiento" seleccionamos un archivo de disco, en caso de que no esté listado alguno.
+
+10. Iniciamos la máquina virtual y elegimos "Start installer".
+
+11. Seleccionamos el lenguaje.
+
+12. Seleccionamos la ubicación.
+
+13. Configuramos el teclado.
+
+14. Esperamos a que empiece a cargar los componenetes adicionales.
+
+15. Escribimos el nombre que tendrá la máquina.
+
+16. Podemos dejar en blanco el nombre de dominio.
+
+17. Escribimos el nombre completo del usuario.
+
+18. Dejamos el siguiente paso sin modificación.
+
+19. Escribimos la contraseña basandonos en las buenas prácticas que se nos recomienda.
+
+20. Continua con la configuración del reloj.
+
+21. Elegimos la zona horaria respecto a la ubicación.
+
+22. Continua con la partición de discos.
+
+23. Elegimos utilizar todo el disco.
+
+24. Seleccionamos el disco que habiamos creado.
+
+25. Seleccionamos "Todos los ficheros".
+
+26. Finalizamos el particionado para continuar.
+
+27. Confirmamos los cambios.
+
+28. Continua con la instalación del sistema.
+
+29. No requerimos una replica en red.
+
+30. Continua con la instalación.
+
+31. Confirmamos la instalación del GRUB.
+
+32. Elegimos la unidad para el GRUB.
+
+33. Continua con la instalación.
+
+34. Damos click en continuar para terminar con la instalación.
+
+35. El sistema se reiniciará.
+
+36. Ingresamos el nombre de nuestro usuario y contraseña para acceder al sistema.
+
+37. Ya podemos usar kali linux.
